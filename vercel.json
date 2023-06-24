@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://cpq9b7mect.hk.aircode.run/"
+      "dest": "https://cpq9b7mect.hk.aircode.run"
     }
   ]
 }
